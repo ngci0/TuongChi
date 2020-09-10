@@ -1,0 +1,660 @@
+@charset "utf-8";
+/* CSS Document */
+
+.html
+{
+scroll-behavior: smooth;
+}
+.container
+{
+	width: 1920px;
+	height: 3600px;
+	position: absolute;
+	background-color: white;
+	scroll-behavior: smooth;
+}
+
+
+.content
+{
+	position: relative;
+	width: 1920px;
+	height: 960px;
+	background: #000000;
+}
+
+
+
+header
+{
+position: absolute;
+width: 1920px;
+height: 149px;
+left: 0px;
+top: 1px;
+margin-top: 30px;
+
+background: #000000;
+}
+
+.logo
+{
+	position: absolute;
+width: 53px;
+height: 58px;
+left: 30px;
+top: 47px;
+	
+}
+
+.Rectangle
+{
+position: absolute;
+width: 135px;
+height: 481px;
+left: 946px;
+top: 385px;
+
+
+}
+
+.circleontop
+{
+	position: absolute;
+	width: 174px;
+	height: 167px;
+	left: 927px;
+	top: 154px;
+
+
+}
+
+.behindcircle 
+{
+	position: absolute;
+	width: 98px;
+	height: 98px;
+	left: 700px;
+	top: 488px;
+}
+
+.smallcircle
+{
+	position: absolute;
+	width: 52px;
+	height: 52px;
+	left: 1448px;
+	top: 417px;
+}
+
+.himynameis
+{
+
+position: absolute;
+width: 447px;
+height: 76px;
+left: 810px;
+top: 321px;
+
+font-family: Red Hat Text;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 66px;
+
+color: #FFFFFF;
+}
+.arrow
+{
+	position: absolute;
+	left: 51.54%;
+	right: 47.11%;
+	top: 94.27%;
+	bottom: 0.71%;
+	z-index: 20;
+	margin-top: 2px;
+
+}
+
+
+
+
+.name
+{
+	position: absolute;
+	width: 1082px;
+	height: 266px;
+	left: 430px;
+	top: 390px;
+
+	font-family: Red Hat Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 190px;
+	line-height: 251px;
+
+	color: #FFFFFF;
+
+}
+
+.welcome
+{
+	position: absolute;
+	width: 801px;
+	height: 74px;
+	left: 633px;
+	top: 651px;
+
+	font-family: Red Hat Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	line-height: 66px;
+
+	color: #FFFFFF;
+
+}
+
+.menu
+{	
+position: absolute;
+width: 1317px;
+height: 68px;
+left: 555px;
+top: 38px;
+
+background: #000000;
+}
+
+ul li
+{
+	font-family: Red Hat Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 15px;
+	float: right;
+	margin: 30px;
+	
+	
+}
+
+ul li a
+{
+	color: white;
+	text-decoration: none;
+}
+
+.vongtron
+{
+position: absolute;
+width: 635px;
+height: 635px;
+left: 617px;
+top: 220px;
+
+}
+
+.picture
+{
+	position: absolute;
+	width: 631px;
+	height: 811px;
+	left: 420px;
+	top: 260px; 
+	transition: 1s;
+}
+
+.picture:hover{
+	transform: scale(1.3);
+}
+.text
+{
+	position: absolute;
+	width: 89px;
+	height: 521px;
+	left: 26px;
+	top: 266px;
+	background-color: antiquewhite;
+}
+
+.littlechi
+{
+	position: absolute;
+	width: 278px;
+	height: 83px;
+	top: 50%;
+	right: 89%;
+
+	font-family: Red Hat Text;
+	font-size: 48px;
+
+	color: #FFFFFF;
+
+	transform: rotate(-90deg)
+}
+
+.age
+{
+	position: absolute;
+	width: 58px;
+	height: 49px;
+	right: 95%;
+	top: 30%;
+	
+	font-family: Red Hat Text;
+	font-size: 36px;
+	
+	color: white;
+}
+ .line
+{
+	position: absolute;
+	width: 158px;
+	height: 0px;
+	left: 80px;
+	top: 666px;
+
+	transform: rotate(190.deg);
+}
+
+.creativeble
+{
+	position: absolute;
+width: 375px;
+height: 34px;
+left: 87%;
+top: 60%;
+
+font-family: Red Hat Text;
+font-size: 30px;
+line-height: 40px;
+
+color: #FFFFFF;
+
+transform: rotate(90deg)
+}
+
+.icon
+{
+position: absolute;
+width: 210px;
+height: 39.61px;
+left: 77px;
+top: 887px;
+}
+
+
+.arrow2
+{
+	position: absolute;
+	left: 53%;
+	right: 31%;
+	top: 51%;
+	bottom: 47%;
+	z-index: 20;
+	margin-top: 20px;
+/*	background-color: aqua;*/
+}
+
+.line5
+{
+	position: absolute;
+	width: 231px;
+	height: 0px;
+	left: 780px;
+	top: 2000px;
+color: white;
+/*border: 0.8px solid #FFFFFF;*/
+}
+
+.chunhat
+{
+	position: absolute;
+	width: 456px;
+	height: 670px;
+	left: 1155px;
+	top: 2141px;
+
+	background: #DFDFE0;
+}
+
+.nuavongtron
+{
+	position: absolute;
+	width: 721px;
+	height: 553px;
+	left: 1019px;
+	top: 2541px;
+
+/*	background: rgba(173, 52, 0, 0.8);*/
+}
+
+.number
+{
+	position: absolute;
+	width: 232px;
+	height: 21px;
+	left: 1049px;
+	top: 1985px;
+
+	font-family: Red Hat Text;
+
+	font-size: 30px;
+	line-height: 40px;
+
+	color: #FFFFFF;
+}
+
+.chuyencuatui
+{
+	position: absolute;
+width: 260px;
+height: 57px;
+left: 1730px;
+top: 2590px;
+
+font-family: Red Hat Text;
+font-size: 40px;
+line-height: 66px;
+
+color: #FFFFFF;
+
+transform: rotate(90deg);
+}
+
+.line4
+{
+	position: absolute;
+width: 158px;
+height: 2.0px;
+left: 1842px;
+top: 2290px;
+color: white;
+transform: rotate(90.deg);
+}
+
+.so01
+{
+position: absolute;
+width: 35px;
+height: 48px;
+left: 1839px;
+top: 2226px;
+
+font-family: Red Hat Text;
+font-size: 36px;
+line-height: 48px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);	
+}
+
+.why
+{
+	position: absolute;
+	width: 469px;
+	height: 41px;
+	left: 160px;
+	top: 2298px;
+
+	font-family:Roboto, "Roboto Light";
+	
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 40px;
+
+	color: #FFFFFF;
+}
+
+.noidung
+{
+	position: absolute;
+width: 768px;
+height: 391px;
+left: 160px;
+top: 2360px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #FFFFFF;
+
+}
+
+.hinhtui
+{
+position: absolute;
+width: 599px;
+height: 615.17px;
+left: 1080px;
+top: 2201px;
+transition: 1s;
+}
+
+.hinhtui:hover{
+	transform: scale(1.3);
+}
+.arrow3
+{
+	position: absolute;
+	left: 52%;
+	right: 0%;
+	top: 77%;
+	bottom: 21%;
+	z-index: 20;
+	margin-top: 20px;
+/*	background-color: aqua;*/
+}
+
+.line6
+{
+	
+position: absolute;
+width: 158.01px;
+height: 0px;
+left: 75px;
+top: 304px;
+color: white;
+
+/*border: 1.5px solid #FFFFFF;*/
+transform: rotate(90.deg);
+}
+
+.rotate02
+{
+	position: absolute;
+width: 51px;
+height: 41px;
+left: 32px;
+top: 254px;
+
+font-family: Red Hat Text;
+font-size: 36px;
+line-height: 48px;
+
+color: #FFFFFF;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.gallery
+{
+	position: absolute;
+width: 253px;
+height: 73px;
+left: -59px;
+top: 500px;
+
+font-family: Red Hat Text;
+font-size: 40px;
+line-height: 66px;
+
+color: #FFFFFF;
+
+transform: rotate(-90deg);
+}
+
+.phu2020
+{
+	position: absolute;
+width: 172px;
+height: 31px;
+left: 313px;
+top: 847px;
+
+font-family: Roboto, "Roboto Light";
+font-size: 30px;
+line-height: 40px;
+
+color: #FFFFFF;
+
+}
+
+.line7
+{
+
+position: absolute;
+width: 153px;
+height: 0px;
+left: 140px;
+top: 890px;
+
+transform: rotate(-179.99deg);	
+}
+
+.Naiki2020
+{
+	position: absolute;
+width: 219px;
+height: 49px;
+left: 1025px;
+top: 727px;
+
+font-family: Roboto, "Roboto Light";
+font-size: 30px;
+line-height: 40px;
+
+color: #FFFFFF;
+}
+
+.Line8
+{
+	position: absolute;
+width: 226px;
+height: 0px;
+left: 760px;
+top: 770px;
+
+transform: rotate(-179.99deg);
+	
+}
+.nguoc2020
+{
+position: absolute;
+width: 219px;
+height: 31px;
+left: 1593px;
+top: 604px;
+
+font-family: Roboto, "Roboto Light";
+font-size: 30px;
+line-height: 40px;
+
+color: #FFFFFF;
+
+}
+
+.line9
+{
+	position: absolute;
+width: 153px;
+height: 0px;
+left: 1410px;
+top: 647px;
+
+transform: rotate(-179.99deg);
+}
+
+.phuwline
+{
+position: absolute;
+width: 465px;
+height: 388px;
+left: 165px;
+top: 416px;
+transition: 1s;
+
+}
+
+.phuwline:hover{
+	transform:scale(1.3);
+}
+
+.nikewline
+{
+position: absolute;
+width: 488px;
+height: 602px;
+left: 794px;
+top: 105px;
+	transition: 1s;
+}
+.nikewline:hover{
+	transform: scale(1.3);
+}
+.nguocwline
+{
+position: absolute;
+width: 353px;
+height: 552px;
+left: 1440px;
+top: 19px;
+	transition: 1s;
+}
+
+.nguocwline:hover{
+	transform: scale(1.3);
+}
+footer
+{
+position: absolute;
+width: 1920px;
+height: 59px;
+left: 0px;
+top: 901px;
+
+background: BLACK;
+}
+
+.www
+{
+position: absolute;
+width: 277px;
+height: 45px;
+left: 864px;
+top: -0px;
+
+font-family: Red Hat Text;
+font-size: 30px;
+line-height: 40px;
+
+color: #FFFFFF;
+}
+
+.arrow5
+{
+	position: absolute;
+left: 52%;
+right: 3%;
+top: 0%;
+bottom: 89.67%;
+
+}
+
